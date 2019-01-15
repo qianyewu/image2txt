@@ -26,5 +26,8 @@
     <ClCompile Include="image2txt.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
